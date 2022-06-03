@@ -10,6 +10,6 @@ class RegistrationActivity : AppCompatActivity() {
     private lateinit var viewModel: RegistrationViewModel
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        
+
     }
 }
